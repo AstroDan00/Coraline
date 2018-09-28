@@ -1,2 +1,2 @@
 # Coraline
-eccho "Hola, ya he llegado! "
+echo "Hola wapa UwU"
