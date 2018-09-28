@@ -1,2 +1,2 @@
 # Coraline
-echo "Hola wapa UwU"
+echo "# Coraline" >> README.md
